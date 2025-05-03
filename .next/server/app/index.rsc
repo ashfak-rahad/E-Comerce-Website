@@ -228,6 +228,6 @@
         </div>
       </footer>
     </div>
-  0:["ryZHEjKW0W6Iw6CXut9Yd",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$2",null]]},[null,"\n    <!DOCTYPE html>\n    <html lang=\"en\">\n      <head>\n        <title>StyleHub - Men & Women Fashion</title>\n        <meta name=\"description\" content=\"Discover the latest trends in men and women clothing\" />\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n      </head>\n      <body>[object Object]</body>\n    </html>\n  ",null]],[null,"$L3"]]]]
+  0:["voRP_yjbnfcdoR3ZAN5yU",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$2",null]]},[null,"\n    <!DOCTYPE html>\n    <html lang=\"en\">\n      <head>\n        <title>StyleHub - Men & Women Fashion</title>\n        <meta name=\"description\" content=\"Discover the latest trends in men and women clothing\" />\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n      </head>\n      <body>[object Object]</body>\n    </html>\n  ",null]],[null,"$L3"]]]]
 3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"StyleHub - Men & Women Fashion"}],["$","meta","3",{"name":"description","content":"Discover the latest trends in men and women clothing"}]]
 1:null
