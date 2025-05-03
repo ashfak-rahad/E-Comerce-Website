@@ -1,0 +1,3 @@
+@echo off
+echo Starting StyleHub E-commerce Website in production mode...
+cmd /c "node_modules\.bin\next start" 

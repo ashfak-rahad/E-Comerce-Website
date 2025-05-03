@@ -1,0 +1,3 @@
+@echo off
+echo Installing dependencies for StyleHub E-commerce Website...
+call cmd /c npm install 

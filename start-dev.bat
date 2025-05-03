@@ -1,0 +1,3 @@
+@echo off
+echo Starting StyleHub E-commerce Website...
+cmd /c "node_modules\.bin\next dev" 
